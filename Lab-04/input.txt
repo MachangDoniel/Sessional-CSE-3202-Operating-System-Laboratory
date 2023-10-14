@@ -1,0 +1,9 @@
+filename: 1.sh
+filename: 2.txt
+filename: 3.sh
+filename: 4.txt
+filename: 5.sh
+foldername: shFolder
+foldername: txtFolder
+foldername: OthersFolder
+filename: file.doc
